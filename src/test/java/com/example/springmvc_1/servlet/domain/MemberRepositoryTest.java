@@ -1,7 +1,7 @@
 package com.example.springmvc_1.servlet.domain;
 
-import com.example.springmvc_1.basic.member.Member;
-import com.example.springmvc_1.basic.member.MemberRepository;
+import com.example.springmvc_1.member.Member;
+import com.example.springmvc_1.member.MemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 

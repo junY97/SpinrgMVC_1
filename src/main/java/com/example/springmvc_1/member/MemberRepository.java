@@ -1,4 +1,4 @@
-package com.example.springmvc_1.basic.member;
+package com.example.springmvc_1.member;
 
 import java.util.ArrayList;
 import java.util.HashMap;

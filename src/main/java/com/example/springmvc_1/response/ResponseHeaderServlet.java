@@ -1,4 +1,4 @@
-package com.example.springmvc_1.basic.response;
+package com.example.springmvc_1.response;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

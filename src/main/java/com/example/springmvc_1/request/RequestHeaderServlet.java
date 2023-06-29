@@ -1,4 +1,4 @@
-package com.example.springmvc_1.basic.request;
+package com.example.springmvc_1.request;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

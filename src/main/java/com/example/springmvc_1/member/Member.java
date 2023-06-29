@@ -1,4 +1,4 @@
-package com.example.springmvc_1.basic.member;
+package com.example.springmvc_1.member;
 
 import lombok.Getter;
 import lombok.Setter;
